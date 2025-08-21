@@ -128,7 +128,7 @@ const Login = () => {
         </button>
         {state === "Login" ? (
           <p className="mt-5 text-center">
-            Dont't have an account?{" "}
+            Don't have an account?{" "}
             <span
               className="text-blue-600 cursor-pointer"
               onClick={() => setState("Sign Up")}
