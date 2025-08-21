@@ -43,11 +43,12 @@ Imagify is a **full-stack AI-powered image generation platform** that lets users
 ```bash
 git clone https://github.com/RajYash0/imagify.git
 cd imagify
-
-2. Setup Backend
+```
+### **2. Setup Backend
+```bash
 cd server
 npm install
-
+```
 
 Create a .env file in the server folder:
 
@@ -58,15 +59,16 @@ RAZORPAY_KEY_ID=your_key_id
 RAZORPAY_KEY_SECRET=your_key_secret
 
 
-Start the backend:
-
+### **Start the backend:
+```bash
 npm start
-
-3. Setup Frontend
+```
+### **3. Setup Frontend
+```bash
 cd ../client
 npm install
 npm start
-
+```
 🧪 Testing Razorpay (Sandbox Mode)
 
 Currently, the payment gateway is in test mode.
@@ -93,6 +95,7 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 👨‍💻 Author
 
 Yash Raj
+
 [💼 LinkedIn](https://www.linkedin.com/in/RajYash0/)
 [🌐 Portfolio](https://rajyash0.github.io/portfolio-try/)
 [🐙 GitHub](https://github.com/RajYash0)
