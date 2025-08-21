@@ -33,6 +33,7 @@ Imagify is a **full-stack AI-powered image generation platform** that lets users
 - 🌐 Frontend → **Vercel**
 - 🔗 Backend → **Render**
 - 🗄️ Database → **MongoDB Atlas**
+- [Visit Imagify](https://imagify-alpha-three.vercel.app)
 
 ---
 
@@ -92,9 +93,9 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 👨‍💻 Author
 
 Yash Raj
-💼 LinkedIn
- | 🌐 Portfolio
- | 🐙 GitHub
+[💼 LinkedIn](https://www.linkedin.com/in/RajYash0/)
+[🌐 Portfolio](https://rajyash0.github.io/portfolio-try/)
+[🐙 GitHub](https://github.com/RajYash0)
 
 ⭐ Support
 
