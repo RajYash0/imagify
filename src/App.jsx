@@ -1,4 +1,4 @@
-import "./style.css";
+import './index.css';
 import React, { useContext } from "react";
 import { Route, Routes } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
