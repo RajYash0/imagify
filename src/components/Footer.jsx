@@ -25,7 +25,7 @@ const Footer = () => {
             className="border border-zinc-900 p-1 inline-block rounded-full"
           />
         </a>
-        <a href="https://www.linkedin.com/in/RajYash0/">
+        <a href="https://www.linkedin.com/in/yashraj-in/">
           <img
             src={assets.linkedin_icon}
             alt=""
